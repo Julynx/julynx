@@ -1,5 +1,5 @@
 <p align="left">  
-  <img width="496" src="https://raw.githubusercontent.com/Julynx/julynx/main/banner3.png">
+  <img width="496" src="https://raw.githubusercontent.com/Julynx/julynx/main/banner4.png">
 </p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=julynx)](https://github.com/anuraghazra/github-readme-stats)
