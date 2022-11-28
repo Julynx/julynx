@@ -2,7 +2,7 @@
   <img width="496" src="https://raw.githubusercontent.com/Julynx/julynx/main/banner4.png">
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=julynx)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=julynx&hide=contribs,prs,issues)](https://github.com/anuraghazra/github-readme-stats)
 
 ### I can work with...
 #### Languages
