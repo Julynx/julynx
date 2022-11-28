@@ -2,7 +2,7 @@
 ### @julynx
 
 <p align="left">  
-  <img width="500" src="https://raw.githubusercontent.com/Julynx/julynx/main/banne.png">
+  <img width="500" src="https://raw.githubusercontent.com/Julynx/julynx/main/banner.png">
 </p>
 <br>
 
