@@ -28,5 +28,5 @@
 - ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ★★★★
 - ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ★★★★
 - ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ★★★★
-- Video Editing (Davinci Resolve) ★★★
+- ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ★★★
 - General System Adminstration (Package installation and configuration, dependency resolution, makefiles and building from source, user management, disk partitioning, shell scripting, bugfixing, benchmarking, hardware installation, writing documentation, technical support, etc.) ★★★★
