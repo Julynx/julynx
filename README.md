@@ -1,7 +1,7 @@
 # Julio Cabria
 ### @julynx
 
-<!-- TODO: Star count, commit frequency, rating, etc. -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=julynx)](https://github.com/anuraghazra/github-readme-stats)
 
 ### I can work with...
 #### Languages
