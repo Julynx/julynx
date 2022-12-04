@@ -30,5 +30,10 @@
 <br> <img src="https://raw.githubusercontent.com/Julynx/julynx/main/4star.png" alt="4star" width="96"/> ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 <br> <img src="https://raw.githubusercontent.com/Julynx/julynx/main/4star.png" alt="4star" width="96"/> ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
 <br> <img src="https://raw.githubusercontent.com/Julynx/julynx/main/3star.png" alt="3star" width="96"/> ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
+
 #### General System Adminstration
 Package installation and configuration, dependency resolution, makefiles and building from source, user management, disk partitioning, shell scripting, bugfixing, benchmarking, hardware installation, writing documentation, technical support, etc.
+
+### Contact
+
+juliocabria@tutanota.com
