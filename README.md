@@ -21,7 +21,7 @@
 #### General System Adminstration
 Package installation and configuration, dependency resolution, makefiles and building from source, user management, disk partitioning, shell scripting, bugfixing, benchmarking, hardware installation, writing documentation, technical support, etc.
 
-#### Application consulting and technical incident resolution
+#### Application Consulting and Technical Incident Resolution
 Application consulting, technical incident resolution, troubleshooting, and support.
 
 ### Contact
