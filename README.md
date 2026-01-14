@@ -9,7 +9,7 @@
 ## About Me
 
 - 🖥️ I'm a passionate **Computer Science Engineer**. I consider myself a creative individual who enjoys **exploring new technologies** and **solving complex problems**.
-- 📈 I started my carreer in **Full Stack Development**, **data science** and **AI**, using languages like **Python** and **Vue.js** to deliver efficient solutions to customers in the **Financial Sector**.
+- 📈 I started my carreer in **Full Stack Development**, **Data Science** and **AI**, using languages like **Python** and **Vue.js** to deliver efficient solutions to customers in the **Financial Sector**.
 - 💭 I am currently developing my **Consulting** skills as an **Analyst** in a government position, where I deal with complex corporate applications like the **T-Systems** suite.
 - 💫 In my free time, I enjoy working on my **personal projects**. Feel free to check out my most important ones below:
 
