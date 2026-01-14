@@ -52,7 +52,7 @@ _Check out [all my public repositories](https://github.com/Julynx?tab=repositori
 
 <h3 align="center">Programs & Tools</h3>
 
-![T-Systems](https://img.shields.io/badge/T--Systems-E20074?style=for-the-badge&logo=t-systems&logoColor=white) ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Canva](https://img.shields.io/badge/Canva-%2600C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-202020?style=for-the-badge&logo=davinciresolve&logoColor=white) ![ComfyUI](https://img.shields.io/badge/ComfyUI-A020F0?style=for-the-badge) ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![T-Systems](https://img.shields.io/badge/T--Systems-E20074?style=for-the-badge&logo=t-systems&logoColor=white) ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-202020?style=for-the-badge&logo=davinciresolve&logoColor=white) ![ComfyUI](https://img.shields.io/badge/ComfyUI-A020F0?style=for-the-badge) ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 <h3 align="center">Other Skills</h3>
 
