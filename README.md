@@ -10,7 +10,7 @@
 
 - 🖥️ I'm a passionate **Full Stack Software Engineer**. I consider myself a creative individual who enjoys **exploring new technologies** and **solving complex problems**.
 - 📈 I started my career in **Full Stack Development**, **Data Science** and **AI**, using languages like **Python** and **Vue.js** to deliver efficient solutions to customers in the **Financial Sector**.
-- 🏛️ Currently, I serve as a **Technical Analyst** for the **Public Administration**, where I oversee complex corporate applications like the **T-Systems** suite.
+- 🏛️ Currently, I serve as an **Analyst** for the **Public Administration**, where I oversee complex corporate applications like the **T-Systems** suite.
 - 💫 In my free time, I enjoy working on my **personal projects**. Feel free to check out my most important ones below:
 
 ## Highlighted Projects
