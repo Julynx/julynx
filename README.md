@@ -10,7 +10,7 @@
 
 - 🖥️ I'm a passionate **Full Stack Software Engineer**. I consider myself a creative individual who enjoys **exploring new technologies** and **solving complex problems**.
 - 📈 I started my career in **Full Stack Development**, **Data Science** and **AI**, using languages like **Python** and **Vue.js** to deliver efficient solutions to customers in the **Financial Sector**.
-- 💭 I am currently developing my **Consulting** skills as an **Analyst** in the **Public Sector**, where I oversee complex corporate applications like the **T-Systems** suite.
+- 🏛️ Currently, I serve as a **Technical Analyst** for the **Public Administration**, where I oversee complex corporate applications like the **T-Systems** suite.
 - 💫 In my free time, I enjoy working on my **personal projects**. Feel free to check out my most important ones below:
 
 ## Highlighted Projects
@@ -56,7 +56,7 @@ _Check out [all my public repositories](https://github.com/Julynx?tab=repositori
 
 <h3 align="center">Other Skills</h3>
 
-![Consulting](https://img.shields.io/badge/Consulting-8e44ad?style=for-the-badge) ![Incident Resolution](https://img.shields.io/badge/Incident_Resolution-16a085?style=for-the-badge) ![Troubleshooting](https://img.shields.io/badge/Troubleshooting-f39c12?style=for-the-badge)
+![System Analysis](https://img.shields.io/badge/System_Analysis-8e44ad?style=for-the-badge) ![Incident Management](https://img.shields.io/badge/Incident_Management-16a085?style=for-the-badge) ![Troubleshooting](https://img.shields.io/badge/Troubleshooting-f39c12?style=for-the-badge)
 
 </div>
 
