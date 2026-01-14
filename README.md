@@ -36,7 +36,7 @@
   <img src="https://opengraph.githubassets.com/1/Julynx/yina-lint" width="400" alt="yina-lint preview">
 </a>
 
-( ... )
+...
 
 _Check out [all my public repositories](https://github.com/Julynx?tab=repositories&q=&type=public) to see more of my work._
 
