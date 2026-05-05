@@ -10,8 +10,9 @@
 
 - 🖥️ I'm a passionate **Full Stack Software Engineer**. I consider myself a creative individual who enjoys **exploring new technologies** and **solving complex problems**.
 - 📈 I started my career in **Full Stack Development**, **Data Science** and **AI**, using languages like **Python** and **Vue.js** to deliver efficient solutions to customers in the **Financial Sector**.
-- 🏛️ Currently, I serve as an **Analyst** for the **Public Administration**, where I oversee complex corporate applications like the **T-Systems** suite.
-- 💫 In my free time, I enjoy working on my **personal projects**, including publishing and mantaining a **VSCode Extension** and several **PyPI Packages**. Take a look at some of my projects below:
+- 🏛️ Next, I served as an **Analyst** for the **Public Administration**, where I oversaw complex corporate applications like the **T-Systems** suite.
+- 💼️ Currently, I am preparing for public service exams for a role in **Artificial Intelligence**.
+- 💫 In my free time, I enjoy working on **personal projects**, including publishing and mantaining a **VSCode Extension** and several **PyPI Packages**. Take a look at some of my projects below:
 
 ## Highlighted Projects
 
