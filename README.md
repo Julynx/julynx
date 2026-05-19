@@ -18,23 +18,28 @@
 
 <div align="center">
 
-<a href="https://github.com/Julynx/markdown_convert">
-  <img src="https://opengraph.githubassets.com/1/Julynx/markdown_convert" width="400" alt="markdown_convert preview">
+<a
+href="https://github.com/Julynx/markdown_convert">markdown-convert
 </a>
-<a href="https://github.com/Julynx/vscode-project-actions">
-  <img src="https://opengraph.githubassets.com/1/Julynx/vscode-project-actions" width="400" alt="vscode-project-actions preview">
+<br><br>
+<a
+href="https://github.com/Julynx/vscode-project-actions">project-actions
 </a>
-<a href="https://github.com/Julynx/decksmith">
-  <img src="https://opengraph.githubassets.com/1/Julynx/decksmith" width="400" alt="decksmith preview">
+<br><br>
+<a
+href="https://github.com/Julynx/decksmith">decksmith
 </a>
-<a href="https://github.com/Julynx/cursely">
-  <img src="https://opengraph.githubassets.com/1/Julynx/cursely" width="400" alt="cursely preview">
+<br><br>
+<a
+href="https://github.com/Julynx/cursely">cursely
 </a>
-<a href="https://github.com/Julynx/musika">
-  <img src="https://opengraph.githubassets.com/1/Julynx/musika" width="400" alt="musika preview">
+<br><br>
+<a
+href="https://github.com/Julynx/musika">musika
 </a>
-<a href="https://github.com/Julynx/yina-lint">
-  <img src="https://opengraph.githubassets.com/1/Julynx/yina-lint" width="400" alt="yina-lint preview">
+<br><br>
+<a
+href="https://github.com/Julynx/yina-lint">yina-lint
 </a>
 
 ...
