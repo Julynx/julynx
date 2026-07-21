@@ -8,7 +8,7 @@
 
 ## About Me
 
-- 🖥️ I'm a passionate **Full Stack Software Engineer**. I consider myself a creative individual who enjoys **exploring new technologies** and **solving complex problems**.
+- 🖥️ I'm a passionate **Full Stack Software Engineer**. A creative individual who enjoys **exploring new technologies** and **solving complex problems**.
 - 📈 I started my career in **Full Stack Development**, **Data Science** and **AI**, using languages like **Python** and **Vue.js** to deliver efficient solutions to customers in the **Financial Sector**.
 - 🏛️ Next, I served as an **Analyst** for the **Public Administration**, where I oversaw complex corporate applications like the **T-Systems** suite.
 - 💼️ Currently, I am preparing for public service exams for a role in **Artificial Intelligence**.
