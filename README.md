@@ -1,5 +1,7 @@
 <h2 align="center">Welcome to my GitHub profile!</h2>
 
+<h2 align="center">https://julynx.github.io</h2>
+
 <br>
 
 <p align="center">
