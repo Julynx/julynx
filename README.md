@@ -20,29 +20,68 @@
 
 <div align="center">
 
-<a
-href="https://github.com/Julynx/markdown_convert">markdown-convert
-</a>
-<br><br>
-<a
-href="https://github.com/Julynx/vscode-project-actions">project-actions
-</a>
-<br><br>
-<a
-href="https://github.com/Julynx/decksmith">decksmith
-</a>
-<br><br>
-<a
-href="https://github.com/Julynx/cursely">cursely
-</a>
-<br><br>
-<a
-href="https://github.com/Julynx/musika">musika
-</a>
-<br><br>
-<a
-href="https://github.com/Julynx/yina-lint">yina-lint
-</a>
+<p>
+  <img
+    src="https://github.com/Julynx/markdown-convert-gui/blob/main/build/icon.png"
+    width="200px"
+  />
+</p>
+
+<h3><a href="https://github.com/julynx/markdown-convert-gui">markdown-convert-gui</a></h3>
+<p>
+  <i
+    >The official GUI for the <code>markdown-convert</code> Python package.</i
+  >
+</p>
+
+<hr />
+
+<p>
+  <img
+    src="https://github.com/Julynx/decksmith/blob/main/docs/assets/decksmith.ico"
+    width="200px"
+  />
+</p>
+
+<h3><a href="https://github.com/julynx/decksmith">DeckSmith</a></h3>
+<p>
+  <i
+    >A powerful application to dynamically generate decks of cards from a YAML specification and a CSV data file.</i
+  >
+</p>
+
+<hr />
+
+<p>
+  <img
+    src="https://github.com/Julynx/blockedit/blob/main/assets/app-icon.ico"
+    width="200px"
+  />
+</p>
+
+<h3><a href="https://github.com/julynx/blockedit">BlockEdit</a></h3>
+<p>
+  <i>A markdown editor with draggable blocks and a beautiful UI.</i>
+</p>
+
+<hr />
+
+<p>
+  <img
+    src="https://github.com/Julynx/smoothpdf/blob/main/public/icon.png"
+    width="200px"
+  />
+</p>
+
+<h3><a href="https://github.com/julynx/smoothpdf">SmoothPDF</a></h3>
+<p>
+  <i
+    >A modern PDF viewer designed for live preview workflows, with smooth
+    animations instead of flickering.</i
+  >
+</p>
+
+<hr />
 
 ...
 
